@@ -11,10 +11,10 @@ font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .caption {
   width: 50%;
-  font-sty;e: italic;
+  font-style: italic;
 }
 #most_important {
-  background-color: light grey;
+  background-color: light gray;
   height: 100px;
   width: 200px;
 }
