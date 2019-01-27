@@ -9,11 +9,11 @@ code {
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-decoraction: underline;
 }
-caption {
+div.caption {
   width: 50%;
   font-sty;e: italic;
 }
-most_important {
+div.most_important {
   background-color: light grey;
   height: 100px;
   width: 200px;
