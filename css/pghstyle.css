@@ -1,4 +1,4 @@
-H1 {
+h1 {
     font-family: Georgia, serif;
     font-size: 18px;
     font-weight: bold;
@@ -6,7 +6,7 @@ H1 {
     border-bottom: solid 1px;
     text-transform: uppercase;
 }
-H2 {
+h2 {
     font-family: Georgia, serif;
     font-size: 14px;
     font-weight: normal;
