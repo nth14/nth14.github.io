@@ -1,1 +1,29 @@
+<html>
+  <head>
+<link rel="stylesheet" href="pghdata/style.css">
+    <title>
+      Policing in Pittsburgh
+    </title>
+  </head>
+<body>
+<h1> Policing in Pittsburgh </h1>
+  <h2> By: Noah Hubbard </h2>
+  <p> While Leon Ford Jr’s son was being born in 2012, Mr. Ford was in the hospital, yet unable to watch his son being born. This is because he was recovering from gunshot wounds sustained during traffic stop where he was unjustly shot by officers of the Pittsburgh Police Department. A year later in 2013, following acquittal of George Zimmerman for the death of Trayvon Martin, a movement called Black Lives Matter was born. By 2014, issues of police violence, and other systemic inequalities related to the justice system in the United States became apart of the national discussion in ways not seen before. In this same time period, the Pittsburgh Police Department saw major changes in how they spent their time training officers. 
+  </p>
+  
+  <p>   From 2013 to 2014, several training categories associated with lowering levels of police violence saw a significant increase in how many hours were devoted to them. Mental health training saw an increase from 2,710 hours of training to 5,775 hours. According to a <a href=https://www.treatmentadvocacycenter.org/home-page/71-featured-articles/2846-people-with-mental-illness-four-times-more-likely-to-be-shot-and-killed-by-police> study </a> of police shootings from 1980 to 2008, at least half of all police shooting victims have mental health issues, making this an extremely important topic. Additionally, an entirely new category of training was created in 2014 dedicated to training Pittsburgh police officers in procedural ethics. In tandem with this increased training, in 2015 the Pittsburgh Police Department <a href=http://useofforceproject.org/#review> adopted a series of policy changes </a> associated with lowering police violence. These policies included banning chokeholds, requiring  de-escalation tactics, requiring officers to warn suspects before they shoot, and clearly stating what types of force is appropriate in their official policy.
+  </p>
+    
+    <p> While increased training, and policy changes is one thing, what is most important is whether this training is having the desired effect of reducing deaths at the hands of police officers. From 2013 to 2017 the Pittsburgh Police Department killed five people, which comes to an annualized <a href=https://mappingpoliceviolence.org/cities/> rate per capita of 3.63 </a>. This rate is below both the national per capita average, which is 3.97, and the “big city” average of 5.47. However, there has not been a high-profile police shooting in Pittsburgh since 2012 when Leon Ford Jr was unjustly shot and subsequently paralyzed by the Pittsburgh police. In 2018, unarmed teenager Antwon Rose was shot and killed by the East Pittsburgh police, a separate municipality with a seperate police department. <a href=https://www.citylab.com/equity/2018/06/east-pittsburgh-is-latest-case-of-how-suburban-poice-are-out-of-control/563384/> Studies have shown </a> that having small municipalities, such as East Pittsburgh, having their own police department is detrimental to community safety, and that suburban municipalities account for a disproportionate share of police shootings. Often times police officers fired from one local police department simply move to another municipality’s department, as happened with Michael Rosfeld, the officer who killed Antwon Rose. After being dismissed from the University of Pittsburgh police, Rosfeld was hired by the East Pittsburgh police, only to kill Antwon Rose hours after being sworn in.
+  </p>
+  
+  <p>  In 2019, police violence continues to be a major issue in the United States, which begs the question, what can the city of Pittsburgh, and the surrounding area do to create a safer community? How can situations like Leon Ford’s, and Antwon Rose’s be avoided? At the local level, the city of Pittsburgh can continue their trend of increased training of their officers. As the chart below shows, since the shooting of Leon Ford Jr, and the visibility of the Black Lives Matter movement, police training has trended in the right direction in Pittsburgh. In addition to the policies they have already adopted, the Pittsburgh police should consider other policies associated with decreased police violence such as: the duty to intervene when witnessing a fellow officer using excessive force, restricting shooting at moving vehicles, and requiring that officers exhaust all other options before resorting to deadly force. These policies are associated with 9%, 8%, and 25% respective decreases in police killings per capita in cities which adopt them. At the county level, Allegheny County should consider taking over policing for all of the suburban municipalities of Pittsburgh which would reduce the risk involved with small municipality policing. Had the police force been centralized at the county level Antwon Rose could still be alive today. The United States by far leads developed countries in police killings. Through reform, Pittsburgh could be one of the cities that helps change that.
+  </p>
+  
+  <div>
+    <a href="https://plot.ly/~nth14/4/?share_key=9NDwRUAxue5Fc94UkrqSuq" target="_blank" title="Plot 4" style="display: block; text-align: center;"><img src="https://plot.ly/~nth14/4.png?share_key=9NDwRUAxue5Fc94UkrqSuq" alt="Plot 4" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="nth14:4" sharekey-plotly="9NDwRUAxue5Fc94UkrqSuq" src="https://plot.ly/embed.js" async></script>
+</div>
 
+</body>
+</html>
