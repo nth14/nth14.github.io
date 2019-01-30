@@ -5,7 +5,7 @@ h1 {
     letter-spacing: 1.4px;
     border-bottom: solid 1px;
     text-transform: uppercase;
-    color:green
+    color:darkgreen
 }
 h2 {
     font-family: Georgia, serif;
@@ -19,6 +19,5 @@ p {
     font-size: 13px;
     line-height: 1.5;
     letter-spacing: .25px;
-    color: blue;
     text-align: left;
 }
