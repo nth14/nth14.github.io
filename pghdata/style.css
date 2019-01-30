@@ -1,10 +1,11 @@
 h1 {
     font-family: Georgia, serif;
-    font-size: 18px;
+    font-size: 24px;
     font-weight: bold;
     letter-spacing: 1.4px;
     border-bottom: solid 1px;
     text-transform: uppercase;
+    color:green
 }
 h2 {
     font-family: Georgia, serif;
@@ -15,7 +16,7 @@ h2 {
 
 p {
     font-family: Verdana;
-    font-size: 11px;
+    font-size: 13px;
     line-height: 1.5;
     letter-spacing: .25px;
     color: blue;
